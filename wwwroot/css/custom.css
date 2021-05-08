@@ -1,0 +1,6 @@
+﻿@media (max-width: 575px) {    
+    section:first-child img {
+        width: 300px;
+    }
+
+}
